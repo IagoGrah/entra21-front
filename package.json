@@ -1,0 +1,23 @@
+{
+  "name": "entra21-front",
+  "version": "1.0.0",
+  "description": "- Para windows: https://nodejs.org/en/download/\r - Para linux: https://github.com/nvm-sh/nvm",
+  "main": "index.html",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.12",
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0",
+    "typescript": "^4.1.3"
+  }
+}
